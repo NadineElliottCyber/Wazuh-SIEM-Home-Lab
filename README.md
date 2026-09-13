@@ -72,7 +72,17 @@ Rather than reviewing individual logs in isolation, I learned how SIEM fields su
 
 ## Screenshots
 
-Screenshots documenting the Wazuh deployment and investigation will be added to this repository.
+### Windows Endpoint Authentication Event
+
+![Windows Endpoint Authentication Event](Screenshot%202026-09-13%20104820.png)
+
+### Wazuh Authentication Investigation
+
+![Wazuh Authentication Investigation](Screenshot%202026-09-13%20114911.png)
+
+### Wazuh SIEM Event Analysis
+
+![Wazuh SIEM Event Analysis](Screenshot%202026-09-13%20115515.png)
 
 ## Disclaimer
 
